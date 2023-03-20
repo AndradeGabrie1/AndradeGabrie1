@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel  👋
+### Olá! Sou o Gabriel  👋
 
 - Cursando ADS na FATEC Sorocaba.
 - Estudando Java e JavaScript.
